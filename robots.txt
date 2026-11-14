@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nhmamouni-sudo.github.io/digitalwithnour/sitemap.xml
